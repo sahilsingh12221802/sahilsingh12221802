@@ -20,7 +20,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sahilsingh858-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilsingh858/)](https://www.linkedin.com/in/sahilsingh858/) 
 [![Instagram Badge](https://img.shields.io/badge/-@s._.a._.h._.i._.l-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/s._.a._.h._.i._.l)](https://www.instagram.com/s._.a._.h._.i._.l) 
 ### Languages
-<img align="left" alt="Python" width="30px" src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" />
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 <img align="left" alt="C++" width="30px" src="" />
 <img align="left" alt="HTML" width="30px" src="" />
