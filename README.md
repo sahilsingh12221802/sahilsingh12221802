@@ -22,10 +22,10 @@
 ### Languages
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-<img align="left" alt="C++" width="30px" src="" />
-<img align="left" alt="HTML" width="30px" src="" />
-<img align="left" alt="CSS" width="30px" src="" />
-<img align="left" alt="Javascript" width="30px" src="" />
+<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" />
 ### Tools
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
