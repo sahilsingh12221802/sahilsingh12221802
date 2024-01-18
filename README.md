@@ -1,12 +1,12 @@
 
 # Hi ,I am Sahil Singh! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
+<img align="right" alt="Coder" width="400px" height="400px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 
 ![](https://komarev.com/ghpvc/?username=sahilsingh12221802&color=blue)<br>
 
 ### Passionate developer and open-source enthusiast<br>
-<img align="right" alt="Coder" width="500px" height="500px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE from Lovely Professional University** <br>
 - 🏫 I’m currently learning **Data Science & Machine learning** <br>
