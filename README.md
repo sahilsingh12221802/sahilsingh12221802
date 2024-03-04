@@ -59,6 +59,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh12221802)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/sahilsingh12221802/sahilsingh12221802/output/snake.svg" alt="Snake animation" />
 
 
