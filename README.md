@@ -52,12 +52,12 @@
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilsingh12221802&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilsingh12221802&layout=compact&theme=midnight-purple" />
 </a>
 <br>
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh12221802)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh12221802&theme=midnight-purple)](https://git.io/streak-stats)
 
 
 
