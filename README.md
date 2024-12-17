@@ -61,3 +61,10 @@
 
 
 
+<div align="center">
+  <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil%20Resume.pdf" download="cv.pdf">
+    <img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/DownlaodCVButton.png" alt="Download My CV" style="width: 440px;">
+  </a>
+</div>
+
+
