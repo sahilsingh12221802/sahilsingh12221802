@@ -60,15 +60,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilsingh12221802&theme=midnight-purple)](https://git.io/streak-stats)
 
 
-<!--
 <div align="center">
-  <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil%20Resume.pdf" download="cv.pdf">
-    <img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/DownlaodCVButton.png" alt="Download My CV" style="width: 440px; border-radius: 10px; box-shadow: 0 0 30px 10px rgba(128, 0, 128, 0.8), 0 0 10px 5px rgba(255, 255, 255, 0.6); padding: 10px; background-color: black;"">
+  <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil%20Resume.pdf" download="Sahil Resume.pdf">
+    <img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/DownlaodCVButton.png" alt="Download My CV" style="width: 440px;">
   </a>
-  <h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 48px; font-weight: bold; color: white; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7), 0 0 25px purple, 0 0 5px darkviolet;">
-  Click Above To Download CV
 </h1>
 </div>
-
--->
 
