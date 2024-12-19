@@ -73,10 +73,10 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** and **Decisio
 
 <br>
 <a href="https://github.com/sahilsingh12221802">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahilsingh12221802&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" style="width: 450px">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahilsingh12221802&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" style="width: 350px">
 </a>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilsingh12221802&layout=compact&theme=midnight-purple" style="width:400px"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahilsingh12221802&layout=compact&theme=midnight-purple" style="width:300px"/>
 </a>
 <br>
 <br><br>
