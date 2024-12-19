@@ -1,4 +1,4 @@
-<img alt="Header Image" src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/HeaderImage.png"/>
+<img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/HeaderImage.png"/>
 
 # Hi ,I am Sahil Singh! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
