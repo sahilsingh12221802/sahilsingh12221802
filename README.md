@@ -90,6 +90,10 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** and **Decisio
 </div>
 <br>
 
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilsingh12221802&theme=midnight_purple" alt="GitHub Profile Summary Card">
+</div>
+<br>
 
 <div align="center">
   <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil%20Resume.pdf" download="Sahil Resume.pdf">
