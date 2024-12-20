@@ -10,7 +10,7 @@
 * ✉️  You can contact me at [hisahilsingh730@gmail.com](mailto:hisahilsingh730@gmail.com)
 <br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" style="width: 300px"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" style="width: 250px"/>
 </div>
 <br>
 <div align="center">
