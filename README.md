@@ -45,7 +45,7 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** and **Decisio
 ## Social Links 🔗<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sahilsingh858-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilsingh858/)](https://www.linkedin.com/in/sahilsingh858/) 
+[![Linkedin Badge](https://img.shields.io/badge/-sahilsingh858-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilsingh858/)](https://www.linkedin.com/in/sahilsingh858/) 
 [![GeeksForGeeks Badge](https://img.shields.io/badge/-@sahil12uivz-2E8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/sahil12uivz)](https://www.geeksforgeeks.org/user/sahil12uivz/) 
 [![HackerRank Badge](https://img.shields.io/badge/-SahilSingh55-2DC865?style=flat-square&logo=hackerrank&logoColor=black&link=https://www.hackerrank.com/profile/SahilSingh55)](https://www.hackerrank.com/profile/SahilSingh55) 
 [![Leetcode Badge](https://img.shields.io/badge/-hisahilsingh-C58023?style=flat-square&logo=leetcode&logoColor=black&link=https://leetcode.com/u/hisahilsingh/)](https://leetcode.com/u/hisahilsingh/) 
