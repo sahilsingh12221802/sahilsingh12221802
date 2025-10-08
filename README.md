@@ -100,8 +100,8 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** and **Decisio
 <br>
 
 <div align="center">
-  <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil%20Resume.pdf" download="Sahil Resume.pdf">
-    <img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil_Singh_CV.pdf" alt="Download My CV" style="width: 300px;">
+  <a href="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/Sahil_Singh_CV.pdf" download="Sahil Resume.pdf">
+    <img src="https://github.com/sahilsingh12221802/sahilsingh12221802/blob/main/DownloadCVButton.png" alt="Download My CV" style="width: 300px;">
   </a>
   
 # _Click Above To Download CV_ 👆🏻
