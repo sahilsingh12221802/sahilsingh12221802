@@ -74,8 +74,57 @@ This project demonstrates the use of **K-Nearest Neighbors (KNN)** and **Decisio
 ### 📈 Github Stats:
 -->
 
-## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="width: 20px"/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/>
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=database&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=plastic&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
+
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=plastic)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=plastic&logo=google&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=plastic&logo=puppet&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+### Big Data & Data Analytics
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black)
+![Pig](https://img.shields.io/badge/Apache_Pig-3C873A?style=plastic)
+![HBase](https://img.shields.io/badge/HBase-BE160C?style=plastic)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
 ## GitHub Stats 📊
 <a href="https://github.com/sahilsingh12221802">
